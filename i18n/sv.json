@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sabelöga"
+			"Sabelöga",
+			"Stefan2255"
 		]
 	},
-	"external-content-desc": "Möjliggör inbäddande av externt innehåll, som markdown-filer, på dina wikisidor"
+	"external-content-desc": "Möjliggör inbäddande av externt innehåll, som markdown-filer, på dina wikisidor",
+	"external-content-fetch-failed": "Kunde inte hämta filen",
+	"external-content-domain-not-allowed": "Det är inte tillåtet att bädda in filer från den här domänen",
+	"external-content-extension-not-allowed": "Det är inte tillåtet att bädda in filer med detta tillägg",
+	"external-content-url-missing-host": "URL saknar värd",
+	"external-content-url-missing-path": "URL:en saknar sökväg",
+	"external-content-url-not-bitbucket": "Inte en giltig Bitbucket-URL",
+	"external-content-url-missing-repository": "URL:en saknar centralarkivnamn",
+	"external-content-tracking-category": "Sidor med externt innehåll",
+	"external-content-tracking-category-desc": "Den här sidan bäddar in externt innehåll",
+	"external-content-broken-tracking-category": "Sidor med trasigt externt innehåll",
+	"external-content-broken-tracking-category-desc": "Den här sidan kunde inte bädda in externt innehåll"
 }
