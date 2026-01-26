@@ -1,12 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras"
+			"Okras",
+			"Yurina Tatiana"
 		]
 	},
+	"external-content-desc": "Позволяет встраивать внешнее содержимое, например, Markdown-файлы, на страницы вашей вики",
 	"external-content-fetch-failed": "Не удалось получить файл",
+	"external-content-domain-not-allowed": "Встраивание файлов с этого домена не разрешено",
+	"external-content-extension-not-allowed": "Встраивание файлов с этим расширением не разрешено",
 	"external-content-url-missing-host": "URL-адрес не содержит хоста",
 	"external-content-url-missing-path": "URL-адрес не содержит путь к файлу",
 	"external-content-tracking-category": "Страницы с внешним содержимым",
-	"external-content-tracking-category-desc": "На этой странице встроено внешнее содержимое"
+	"external-content-tracking-category-desc": "На этой странице встроено внешнее содержимое",
+	"external-content-broken-tracking-category": "Страницы с неработающим внешним содержимым"
 }
